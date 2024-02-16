@@ -1,0 +1,5 @@
+DB_USER=LeahLan
+DB_PASSWORD=000703Lc!
+DB_HOST=techin510leah.postgres.database.azure.com
+DB_PORT=5432
+DB_NAME=techin510leah

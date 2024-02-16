@@ -1,0 +1,10 @@
+psycopg2-binary
+requests
+python-dotenv
+streamlit-folium
+sqlalchemy
+beautifulsoup4
+folium
+psycopg2
+geopy
+matplotlib
